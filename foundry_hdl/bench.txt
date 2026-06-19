@@ -1,0 +1,12 @@
+N=16
+K=16
+cycles_total=67
+first_valid_in_cycle=0
+last_valid_out_cycle=47
+latency_cycles=48
+time_first_valid_ns=25000
+time_last_valid_ns=495000
+time_window_ns=470000
+total_macs=4096
+macs_per_cycle=85.333333
+clock_period_ns=10
